@@ -1,0 +1,6 @@
+﻿- học web đã cài bản visual https://www.microsoft.com/en-US/download/details.aspx?id=44912
+
+- sql server 2008 r2:
+SQLEXPRADV_x64_ENU.exe  : cai ca 2 1 phát : sql manager va server
+
+https://www.microsoft.com/en-us/download/details.aspx?id=30438
